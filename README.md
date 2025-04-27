@@ -28,7 +28,8 @@ Wav2Vec 2.0 offers high accuracy in speech recognition, even in noisy environmen
 # Conclusion
 Both SpeechRecognition and Wav2Vec are efficient ways to implement a basic speech-to-text system, with SpeechRecognition being more accessible and Wav2Vec offering advanced performance. These models can be easily integrated into applications to convert speech into text with minimal latency.
 
-
+# OUTPUT
+![Screenshot (27)](https://github.com/user-attachments/assets/fc1978c9-c43a-40bf-8638-57b9092f69d4)
 
 
 
